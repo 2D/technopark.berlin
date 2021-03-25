@@ -1,11 +1,12 @@
 # technopark.berlin
-physical space meets AlgoTecture
+
+Innovation happens in a physical space which runs by [AlgoTecture](http://algotecture.net).
 
 Copyright by Dimitry Dëmin.
 
-https://technopark.berlin/
+[Technopark.Berlin](https://technopark.berlin/)
 
-The main idea behind
+The big idea of Innovation is behind the Technopark.Berlin and avaliable here:
 
 https://docs.google.com/document/d/1XmcJLQhPXoNSTJ9Ppzn0uRKe8SMkVroKz2VxEEXHDmc/edit#heading=h.yjr8hlo4if06
 
