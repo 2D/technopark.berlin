@@ -6,7 +6,7 @@ Copyright by Dimitry Dëmin.
 
 ## [Technopark.Berlin](https://technopark.berlin/)
 
-The big idea of Innovation is behind the Technopark.Berlin and avaliable here:
+The big idea of Innovation is behind the Technopark.Berlin and avaliable here: say Hello (World) Innovation!
 
 https://docs.google.com/document/d/1XmcJLQhPXoNSTJ9Ppzn0uRKe8SMkVroKz2VxEEXHDmc/edit#heading=h.yjr8hlo4if06
 
