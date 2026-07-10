@@ -1,0 +1,83 @@
+[33mfbd8a65[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m planning files
+ planning/container_zentrum.3dm | Bin [31m127145116[m -> [32m0[m bytes
+ planning/container_zentrum.zip | Bin [31m0[m -> [32m37945606[m bytes
+ planning/model.3dm             | Bin [31m153645939[m -> [32m0[m bytes
+ planning/model.zip             | Bin [31m0[m -> [32m55301340[m bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+[33m2cb4d85[m planning files
+ planning/24542_Katasterdaten.3dm                   |    Bin [31m0[m -> [32m1540736[m bytes
+ planning/24542_Katasterdaten.dwg                   |    Bin [31m0[m -> [32m850880[m bytes
+ planning/24542_Teilungsvermessung-2.3dm            |    Bin [31m0[m -> [32m1766366[m bytes
+ planning/24542_Teilungsvermessung.dwg              |    Bin [31m0[m -> [32m1143648[m bytes
+ planning/4JURI.dwg                                 |    Bin [31m0[m -> [32m797216[m bytes
+ planning/80 (4).jpg                                |    Bin [31m0[m -> [32m60622[m bytes
+ ...ng_Instandhaltung, Umbau, Erg\303\244nzung.pdf" |    Bin [31m0[m -> [32m31011995[m bytes
+ planning/IMG_0101.JPG                              |    Bin [31m0[m -> [32m1609348[m bytes
+ planning/IMG_0104.JPG                              |    Bin [31m0[m -> [32m1750897[m bytes
+ planning/Liegenschaftskarte_Priort.3dm             |    Bin [31m0[m -> [32m2282411[m bytes
+ planning/ParkingLot.3dm                            |    Bin [31m0[m -> [32m404019[m bytes
+ planning/Screenshot - 11_16_2015 , 10_31_28 AM.png |    Bin [31m0[m -> [32m3318946[m bytes
+ planning/Untitled.3dm                              |    Bin [31m0[m -> [32m26265212[m bytes
+ planning/abb.3dm                                   |    Bin [31m0[m -> [32m35670729[m bytes
+ planning/bahnhof.7z                                |    Bin [31m0[m -> [32m908359[m bytes
+ planning/bier.3dm                                  |    Bin [31m0[m -> [32m62014291[m bytes
+ planning/concept1.gh                               |    Bin [31m0[m -> [32m6310[m bytes
+ planning/container.3dm                             |    Bin [31m0[m -> [32m2217782[m bytes
+ planning/container_zentrum.3dm                     |    Bin [31m0[m -> [32m127145116[m bytes
+ planning/countStones.gh                            |    Bin [31m0[m -> [32m24087[m bytes
+ planning/desktop.ini                               |      2 [32m+[m
+ planning/export_teilModel_4Juri.dwg                |    Bin [31m0[m -> [32m6867904[m bytes
+ planning/export_teilModel_4Juri.zip                |    Bin [31m0[m -> [32m5339833[m bytes
+ planning/front.jpg                                 |    Bin [31m0[m -> [32m528982[m bytes
+ planning/goin1.3dm                                 |    Bin [31m0[m -> [32m55469708[m bytes
+ planning/model.3dm                                 |    Bin [31m0[m -> [32m153645939[m bytes
+ planning/model_priort_0.5.5.3dm                    |    Bin [31m0[m -> [32m27291501[m bytes
+ planning/model_priort_0.5.6.3dm                    |    Bin [31m0[m -> [32m27349412[m bytes
+ planning/model_priort_0.5.7.3dm                    |    Bin [31m0[m -> [32m27466989[m bytes
+ planning/model_priort_0.5.8-bricks.3dm             |    Bin [31m0[m -> [32m34563669[m bytes
+ planning/model_priort_0.5.8.1-bricks.3dm           |    Bin [31m0[m -> [32m35033489[m bytes
+ planning/model_priort_0.5.8.2-bricks.3dm           |    Bin [31m0[m -> [32m33945289[m bytes
+ planning/model_priort_0.5.8.3-bricks.3dm           |    Bin [31m0[m -> [32m33099446[m bytes
+ planning/model_priort_0.5.8.4-bricks.3dm           |    Bin [31m0[m -> [32m34291768[m bytes
+ planning/model_priort_0.5.8.5.3dm                  |    Bin [31m0[m -> [32m34331414[m bytes
+ .../{bim_phase_0 => }/model_priort_0.5.8.5.zip     |    Bin
+ planning/model_priort_0.5.8.6.3dm                  |    Bin [31m0[m -> [32m33257212[m bytes
+ planning/model_priort_0.5.8.7.3dm                  |    Bin [31m0[m -> [32m33107454[m bytes
+ planning/model_priort_0.5.8.7.dwg                  |    Bin [31m0[m -> [32m402560[m bytes
+ .../{bim_phase_0 => }/model_priort_0.5.8.7.zip     |    Bin
+ planning/model_priort_1512.3dm                     |    Bin [31m0[m -> [32m1780463[m bytes
+ planning/model_priort_1611a.3dm                    |    Bin [31m0[m -> [32m3968212[m bytes
+ planning/model_priort_1801a.3dm                    |    Bin [31m0[m -> [32m5353914[m bytes
+ planning/model_priort_1806a.3dm                    |    Bin [31m0[m -> [32m5201795[m bytes
+ .../model_priort_2006aoriginal coordinates.3dm     |    Bin [31m0[m -> [32m7711649[m bytes
+ planning/model_priort_2006b.3dm                    |    Bin [31m0[m -> [32m8395818[m bytes
+ planning/model_priort_2007a.3dm                    |    Bin [31m0[m -> [32m13290227[m bytes
+ planning/model_priort_2007b.3dm                    |    Bin [31m0[m -> [32m24415070[m bytes
+ planning/model_priort_2009a.3dm                    |    Bin [31m0[m -> [32m25165288[m bytes
+ planning/model_priort_2011a.3dm                    |    Bin [31m0[m -> [32m25542966[m bytes
+ planning/model_priort_202103a.3dm                  |    Bin [31m0[m -> [32m26534647[m bytes
+ planning/model_priort_202103b.3dm                  |    Bin [31m0[m -> [32m26372936[m bytes
+ planning/origami roof.3dm                          |    Bin [31m0[m -> [32m247812[m bytes
+ planning/persp_20720.png                           |    Bin [31m0[m -> [32m1498203[m bytes
+ planning/phase_0/bahnhof_Vaihingen.cpixml          | 518463 [32m++++++++++++++++++[m
+ .../export_teilModel_4Juri.3dm                     |    Bin
+ planning/{ => phase_0}/lagerplan.jpg               |    Bin
+ .../24542_Teilungsvermessung_20feb2020.dwg         |    Bin [31m0[m -> [32m1143648[m bytes
+ .../Liegenschaftskarte_Priort.dxf                  | 362476 [32m++++++++++++[m
+ .../Liegenschaftskarte_Priort.pdf                  |    Bin [31m0[m -> [32m649826[m bytes
+ .../Liegenschaftskarte_Priort_1.png                |    Bin [31m0[m -> [32m102709[m bytes
+ planning/phase_0/model_priort_0.5.8.5.zip          |    Bin [31m0[m -> [32m24474162[m bytes
+ planning/phase_0/model_priort_0.5.8.7.zip          |    Bin [31m0[m -> [32m24185576[m bytes
+ planning/{bim_phase_0 => phase_0}/roof_concept.gh  |    Bin
+ planning/plan1og.png                               |    Bin [31m0[m -> [32m584319[m bytes
+ planning/priort.osm                                |   9296 [32m+[m
+ planning/priort.png                                |    Bin [31m0[m -> [32m7562231[m bytes
+ planning/screen.jpg                                |    Bin [31m0[m -> [32m495669[m bytes
+ planning/tensdimi.gh                               |    Bin [31m0[m -> [32m22375[m bytes
+ planning/tensdimi2.gh                              |    Bin [31m0[m -> [32m26845[m bytes
+ planning/test.gh                                   |    Bin [31m0[m -> [32m27025[m bytes
+ planning/test4ansys.igs                            |    252 [32m+[m
+ planning/treppe-golm.gh                            |    Bin [31m0[m -> [32m19264[m bytes
+ planning/wegweiser_golm_v.01.3dm                   |    Bin [31m0[m -> [32m2489884[m bytes
+ planning/wegweiser_golm_v.02.3dm                   |    Bin [31m0[m -> [32m2124054[m bytes
+ 75 files changed, 890489 insertions(+)
